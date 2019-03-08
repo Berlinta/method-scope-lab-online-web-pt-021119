@@ -1,1 +1,1 @@
-phrase = ""
+phrase        me, Mario!
